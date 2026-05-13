@@ -8,7 +8,8 @@ This project aims to detect fraudulent financial transactions using machine lear
 ## 📊 Dataset
 - Source: INSAID Fraud Detection Dataset  
 - Total records: 6.3 million  
-- Target variable: `isFraud`  
+- Target variable: `isFraud`
+- > Note: The dataset is not uploaded due to large file size. 
 
 ## ⚠️ Note on Data Usage
 Due to the large size of the dataset (6.3 million records), a random sample was used during analysis and model training to ensure efficient computation while preserving data distribution.
